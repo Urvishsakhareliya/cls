@@ -20,3 +20,7 @@
 #message-center {
     min-width: 55px;
 }
+
+#ccard_pg-1 {
+    display: none !important;
+}
